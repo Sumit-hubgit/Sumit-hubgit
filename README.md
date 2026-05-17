@@ -1,6 +1,8 @@
 # Hi there, I'm Sumit Sahu 👋
 
-### Backend Engineer | Java · Spring Boot · Redis · Elasticsearch
+### Backend Engineer | Java · Spring Boot · Redis · Elasticsearch  · Python · RAG  · Maachine Learning 
+ 
+
 
 ---
 
