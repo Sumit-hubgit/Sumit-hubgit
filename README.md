@@ -60,6 +60,6 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sumit-sahu-b53178225/))
+[![LinkedIn](https://www.linkedin.com/in/sumit-sahu-b53178225/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](your-leetcode-url)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](your-github-url)
