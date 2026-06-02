@@ -55,16 +55,6 @@
 | [AI MathPad](your-link-here) | Canvas interface that solves hand-drawn math problems via AI | Python, FastAPI, LangChain, React |
 | [Employee Management System](your-link-here) | Full-stack CRUD app with JWT auth & role-based access control | Java, Spring Boot, MySQL, React |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-hubgit&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-hubgit&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
 
 ### 🏆 Achievements
 
