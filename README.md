@@ -51,9 +51,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Smart Compose](your-link-here) | AI Chrome extension for Gmail reply suggestions — adopted by 200+ users | Java, Spring Boot, React, Chrome API |
-| [AI MathPad](your-link-here) | Canvas interface that solves hand-drawn math problems via AI | Python, FastAPI, LangChain, React |
-| [Employee Management System](your-link-here) | Full-stack CRUD app with JWT auth & role-based access control | Java, Spring Boot, MySQL, React |
+| [Smart Compose](https://github.com/Sumit-hubgit/SmartmAil) | AI Chrome extension for Gmail reply suggestions — adopted by 200+ users | Java, Spring Boot, React, Chrome API |
+| [AI MathPad](https://github.com/Sumit-hubgit/calc-be) | Canvas interface that solves hand-drawn math problems via AI | Python, FastAPI, LangChain, React |
+| [Employee Management System](https://github.com/Sumit-hubgit/Employee-Management-System) | Full-stack CRUD app with JWT auth & role-based access control | Java, Spring Boot, MySQL, React |
 
 
 ### 🏆 Achievements
