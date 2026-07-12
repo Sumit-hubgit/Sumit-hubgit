@@ -12,7 +12,7 @@
 
 ### About me
 
-- 🏢 **Currently:** Open to full-time SDE-1 roles
+- 🏢 **Currently:** Open to full-time SDE-1 roles. 
 - 🔭 **Recent Work:** Backend Intern @ OnArrival — reduced P95 latency from 800ms → 150ms via Redis caching
 - 💬 **Ask me about:** Spring Boot, REST API design, Redis, SQL optimization, system design
 - 📍 **Location:** Bengaluru, India
